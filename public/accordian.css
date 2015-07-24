@@ -1,0 +1,11 @@
+li{
+  color:gray;
+  border:1px solid #D4D4D4;
+  background-color:#F1EEEE;
+}
+span{
+  float:right;
+  border:1px solid #D4D4D4;
+  border-radius:13px;
+  background-color:white;
+}

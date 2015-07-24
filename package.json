@@ -1,0 +1,23 @@
+{
+  "name": "week-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "broccoli": "^0.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColemanCox/4.3-prototypess.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ColemanCox/4.3-prototypess/issues"
+  },
+  "homepage": "https://github.com/ColemanCox/4.3-prototypess#readme",
+  "description": ""
+}
