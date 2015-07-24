@@ -1,0 +1,19 @@
+@import 'reset';
+
+.row {
+    clear: both;
+}
+
+.row {
+    display: block;
+    float: left;
+    width: percentage(1/15);
+}
+
+.row .double{
+    width: percentage(2.5/15);
+}
+
+.row .triple {
+    width: percentage(2.5/15);
+}

@@ -10,6 +10,7 @@ var includePaths = [
 
 ];
 
-var compiledCss = sassCompile(includePaths,'app.scss', 'accordian.css');
-module.exports = merge(['public', compiledCss]);
+var compiledCss1 = sassCompile(includePaths,'app.scss', 'accordian.css');
+var compiledCss2 = sassCompile(includePaths,'keyboard.scss', 'keyboard.css');
+module.exports = merge(['public', compiledCss1, compiledCss2]);
 
