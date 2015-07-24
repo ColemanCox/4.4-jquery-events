@@ -1,0 +1,19 @@
+@import 'reset';
+@import 'neat';
+$fa-font-path:        "//netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts" !default;
+@import 'bourbon';
+@import 'neat';
+
+
+
+li{
+  color:gray;
+  border:1px solid #D4D4D4;
+  background-color:#F1EEEE;
+}
+span{
+  float:right;
+  border:1px solid #D4D4D4;
+  border-radius:13px;
+  background-color:white;
+}
