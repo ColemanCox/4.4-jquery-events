@@ -1,19 +1,32 @@
 @import 'reset';
-
-.row {
-    clear: both;
+.rowa, .rowb, .rowc, .rowd{
+    margin-left:7%;
 }
 
-.row {
-    display: block;
-    float: left;
-    width: percentage(1/15);
+
+
+.delete{
+    width:136px;
+
 }
 
-.row .double{
-    width: percentage(2.5/15);
+.tab{
+    width:136px;
 }
 
-.row .triple {
-    width: percentage(2.5/15);
+.return, .caps{
+width:140px;}
+
+
+.shift{
+    width:177px;
+}
+button{
+    width:70px;
+    height:40px;
+    margin-top:.25%;
+}
+
+p{
+    margin-top:43%;
 }
